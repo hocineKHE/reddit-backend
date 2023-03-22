@@ -1,0 +1,3 @@
+[submodule "reddit-frontend"]
+	path = reddit-frontend
+	url = https://github.com/hocineKHE/reddit-frontend.git
